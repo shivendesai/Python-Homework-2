@@ -1,1 +1,2 @@
-print('Hello')
+a = 20
+print(a)
